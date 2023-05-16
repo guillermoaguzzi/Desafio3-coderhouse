@@ -1,0 +1,100 @@
+[
+	{
+		"id": 1,
+		"brand": "Fender",
+		"bodytipe": "Stratocaster",
+		"color": "White",
+		"price": 1000
+	},
+	{
+		"id": 2,
+		"brand": "Fender",
+		"bodytipe": "Telecaster",
+		"color": "Black",
+		"price": 1000
+	},
+	{
+		"id": 3,
+		"brand": "Fender",
+		"bodytipe": "Jazzmaster",
+		"color": "Sunburst",
+		"price": 1000
+	},
+	{
+		"id": 4,
+		"brand": "Fender",
+		"bodytipe": "Jaguar",
+		"color": "Cherrybursdt",
+		"price": 1000
+	},
+	{
+		"id": 5,
+		"brand": "Fender",
+		"bodytipe": "Mustang",
+		"color": "Olive",
+		"price": 1000
+	},
+	{
+		"id": 6,
+		"brand": "Gibson",
+		"bodytipe": "SG",
+		"color": "Red",
+		"price": 1000
+	},
+	{
+		"id": 7,
+		"brand": "Gibson",
+		"bodytipe": "Les Paul",
+		"color": "Golden",
+		"price": 1000
+	},
+	{
+		"id": 8,
+		"brand": "Gibson",
+		"bodytipe": "ES-335",
+		"color": "Red",
+		"price": 1000
+	},
+	{
+		"id": 9,
+		"brand": "Gibson",
+		"bodytipe": "Explorer",
+		"color": "Black",
+		"price": 1000
+	},
+	{
+		"id": 10,
+		"brand": "Gibson",
+		"bodytipe": "Flying V",
+		"color": "White",
+		"price": 1000
+	},
+	{
+		"id": 11,
+		"brand": "Gibson",
+		"bodytipe": "Firebird",
+		"color": "White",
+		"price": 1000
+	},
+	{
+		"id": 12,
+		"brand": "PRS",
+		"bodytipe": "Custom 24",
+		"color": "Gray",
+		"price": 1000
+	},
+	{
+		"id": 13,
+		"brand": "PRS",
+		"bodytipe": "Silver Sky",
+		"color": "Light-Blue",
+		"price": 1000
+	},
+	{
+		"id": 14,
+		"brand": "Jackson",
+		"bodytipe": "Soloist",
+		"color": "Pink",
+		"price": 1000
+	}
+]
